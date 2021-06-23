@@ -1,7 +1,7 @@
 # Data-Handle
 Model data handle menggunakan framework Laravel 8.x
 
-/***
+```php
 <?php
 
 namespace App\Models;
@@ -44,4 +44,4 @@ class My_model extends Model
             ->get();
     }
 }
-***/
+```
